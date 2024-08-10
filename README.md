@@ -62,6 +62,7 @@ A critical aspect of the project is the feature generation process, which involv
 - **Order Book Details**: Incorporating micro-level details from the order book, such as bid/ask sizes and prices, reflects the competitive landscape of the market. These details are crucial for capturing the immediate supply and demand dynamics that influence stock prices.
 - **Macro-Level Market Conditions**: The model also considers broader market indicators, such as trading volumes and global market movements, which may influence stock prices. This holistic approach to feature engineering is essential for enhancing the model's predictive power.
 
+For a more comprehensive understanding of the project and the features we used, please refer to the full report in the `main.pdf` file.
 ## Model Training and Computational Efficiency
 The project emphasizes the importance of computational efficiency, particularly given the time-sensitive nature of stock market predictions. The total execution time for the final Kaggle submission was approximately 5.7 hours, which included:
 - **Data Preparation**: Significant time was spent on cleaning and organizing the data to ensure its quality and relevance for modeling. This step is crucial, as the accuracy of predictions is heavily dependent on the quality of the input data.
