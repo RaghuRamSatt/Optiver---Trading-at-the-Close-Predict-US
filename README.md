@@ -1,4 +1,4 @@
-# Optiver - Trading at the Close Predict US
+# Optiver - Trading at the Close Predict US Stock Movements
 
 ## Project Description
 This project was developed as part of the DS 5220 Supervised Machine Learning course in Fall 2023. It focuses on predicting the closing prices of stocks listed on NASDAQ during the Closing Cross auction, a critical event in daily trading that determines official closing prices for securities.
