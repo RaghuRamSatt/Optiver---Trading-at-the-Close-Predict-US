@@ -12,7 +12,7 @@ Key aspects of the project include:
 - Focus on computational efficiency for real-time prediction scenarios
 - Evaluation using Mean Absolute Error (MAE) metric
 
-At the time of completing this course project, our team ranked in the top 25% of the Kaggle competition, showcasing the effectiveness of our approach in a competitive, real-world scenario.
+At the time of completing this course project, our team ranked in the top 20% of the Kaggle competition, showcasing the effectiveness of our approach in a competitive, real-world scenario.
 
 This repository contains our codebase, detailed documentation, and a comprehensive report (main.pdf) outlining our methodologies, analyses, and findings.
 
